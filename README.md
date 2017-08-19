@@ -5,7 +5,7 @@
 
 一、表相关
 1.	是否发烧
-答：○高烧38℃以上○低烧○无
+答：<label><input name="Fruit" type="radio" value="" />高烧38℃以上</label><label><input name="Fruit" type="radio" value="" />低烧</label><label><input name="Fruit" type="radio" value="" />无</label> 
 2.	当下出汗情况
 答：○大汗○活动则汗多○不出汗/难出汗
 ○正常出汗（冬天稍活动后微微出汗、身上有潮润感也算出汗）
