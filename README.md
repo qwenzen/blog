@@ -129,3 +129,15 @@
 
 
 （请提供面部及舌象照片，在自然光下或近似自然光下，光线充足的环境中拍摄）
+<style>
+.gc-comments {font-size: 12px;}
+</style>
+<script src="https://unpkg.com/github-comments@0.4.0/gc.js"></script>
+<div class="gc-comments" data-repos="qwenzen/github-comments" data-issues="1" >
+    <div class="gc-comments-title">
+        评论
+    </div>
+    <div class="gc-comments-info">
+        想在此留下评论，请访问 <a href="issues_link">issues_link</a> 提交评论
+    </div>
+</div>
