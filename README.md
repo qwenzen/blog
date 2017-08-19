@@ -133,7 +133,7 @@
 .gc-comments {font-size: 12px;}
 </style>
 <script src="https://unpkg.com/github-comments@0.4.0/gc.js"></script>
-<div class="gc-comments" data-repos="qwenzen/github-comments" data-issues="1" >
+<div class="gc-comments" data-repos="qwenzen/blog" data-issues="1" >
     <div class="gc-comments-title">
         评论
     </div>
